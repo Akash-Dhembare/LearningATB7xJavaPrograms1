@@ -1,6 +1,7 @@
 package ex_07072024;
 
 public class Lab005 {
-    //Keywords and Identifiers
-
+    public static void main(String[] args) {
+        System.out.println("Hello Pramod");
+    }
 }

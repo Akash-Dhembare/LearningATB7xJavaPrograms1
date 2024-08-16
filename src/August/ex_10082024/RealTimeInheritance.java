@@ -1,6 +1,4 @@
-package August.ex_10082024.Polymorphism;
-
-import org.w3c.dom.ls.LSOutput;
+package August.ex_10082024;
 
 public class RealTimeInheritance {
     public static void main(String[] args) {

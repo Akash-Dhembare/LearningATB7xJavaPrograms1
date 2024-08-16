@@ -1,4 +1,4 @@
-package August.ex_10082024.Polymorphism.superthiskeyword;
+package August.ex_10082024.superthiskeyword;
 
 public class Lab185 {
     // super.variable

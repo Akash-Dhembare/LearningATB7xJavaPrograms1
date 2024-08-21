@@ -10,6 +10,7 @@ public class Lab235 {
         mylist1.add("Pramod");
         mylist1.add("Anusha");
         mylist1.add("Kiran");
+        mylist1.add("Kiran");
         System.out.println(mylist1);
 
         Vector v=new Vector();

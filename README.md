@@ -15,3 +15,4 @@ This Repo contains the source code for the Excercise that we have done in the AT
 
 
 Postman collection is also added
+add newman report screenshot here
